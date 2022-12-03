@@ -1,7 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Jeff Gomez</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQA7rHkxCbTrhZjCevxZLUZRuKO-Bgb-LIA&usqp=CAU"> 
+<img align="right" alt="Coding" width="600" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQA7rHkxCbTrhZjCevxZLUZRuKO-Bgb-LIA&usqp=CAU"> 
 
 
 - 🔭 I’m currently working on **My Fitness Buddy**
