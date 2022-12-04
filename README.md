@@ -15,7 +15,7 @@ I am Jeff from Tampa Florida, and I love doing web development. I really enjoy e
 - 📫 How to reach me: jeffg2221@icloud.com and https://www.linkedin.com/in/jeffg2221 
 - ⚡ Fun fact: I am a certified Personal Trainer turned coder 🙌🏾 
  <br> <br>
- <img align="center" alt="Coding" width="600" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQA7rHkxCbTrhZjCevxZLUZRuKO-Bgb-LIA&usqp=CAU"> 
+ <img align="center" alt="Coding" width="1000" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQA7rHkxCbTrhZjCevxZLUZRuKO-Bgb-LIA&usqp=CAU"> 
 
 
 <h3 align="left">Socials:</h3>
