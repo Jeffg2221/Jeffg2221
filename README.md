@@ -1,6 +1,6 @@
 
 
-### Hi there 👋🏾, my name is Jeff Gomez
+### Hi  👋🏾, my name is Jeff Gomez
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWImMLA9bQd4ejp91W5n5chQZfpomr5hWkKg&usqp=CAU)
 
