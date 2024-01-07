@@ -1,18 +1,18 @@
 
 
 ### Hi  👋🏾, my name is Jeff Gomez
-#### Full Stack Web Developer
+#### Full Software Engineer
 ![Full Stack Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWImMLA9bQd4ejp91W5n5chQZfpomr5hWkKg&usqp=CAU)
 
-I am Jeff from Tampa Florida, and I love doing web development. I really enjoy expanding my knowledge i new languages, frameworks or databases. I feel the more you know, the better you are going to be at tackling any problem at hand.
+I am Jeff from New London County in Connecticut, and I love doing web development. I really enjoy expanding my knowledge i new languages, frameworks or databases. I feel the more you know, the better you are going to be at tackling any problem at hand.
  <br> <br>
 
 
 
-- 🔭 I’m currently working on My Fitness Buddy 
-- 🌱 I’m currently learning Advanced CSS and Material UI 
+- 🔭 I’m currently working on Project Management Tool 
+- 🌱 I’m currently learning Advanced Spring and REACT/REDUX 
 - 👯 I’m looking to collaborate on future projects  
-- 📫 How to reach me: jeffg2221@icloud.com and https://www.linkedin.com/in/jeffg2221 
+- 📫 How to reach me: gomez.jeff@icloud.com and https://www.linkedin.com/in/jeffg2221 
 - ⚡ Fun fact: I am a certified Personal Trainer turned coder 🙌🏾 
  <br> <br>
  <img align="center" alt="Coding" width="1000" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQA7rHkxCbTrhZjCevxZLUZRuKO-Bgb-LIA&usqp=CAU"> 
