@@ -1,7 +1,7 @@
 
 
 ### Hi  👋🏾, my name is Jeff Gomez
-#### Full Software Engineer
+#### Full Stack Software Engineer
 ![Full Stack Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWImMLA9bQd4ejp91W5n5chQZfpomr5hWkKg&usqp=CAU)
 
 I am Jeff from New London County in Connecticut, and I love doing web development. I really enjoy expanding my knowledge i new languages, frameworks or databases. I feel the more you know, the better you are going to be at tackling any problem at hand.
