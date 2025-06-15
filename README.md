@@ -9,7 +9,7 @@ I am Jeff from New London County in Connecticut, and I love doing web developmen
 
 
 
-- 🔭 I’m currently working on Games Inventory/Library App
+- 🔭 I’m currently working on Field Ops Construction App
 - 🌱 I’m currently learning Advanced Spring, React/TypeScript, PostgreSQL and AWS
 - 👯 I’m looking to collaborate on future projects  
 - 📫 How to reach me: gomez.jeff@icloud.com and https://www.linkedin.com/in/jeffg2221 
